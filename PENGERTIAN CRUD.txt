@@ -1,0 +1,19 @@
+PENGERTIAN CRUD
+
+	Konsep ini sering digunakan dalam pengembangan perangkat lunak, terutama dalam aplikasi web dan aplikasi berbasis database.
+
+Create (Membuat Data Baru):
+	Operasi untuk menambahkan data baru ke dalam database.
+Contoh: Menambahkan akun baru, membuat postingan, atau mengisi formulir pendaftaran.
+
+Read (Membaca atau Mengambil Data):
+	Operasi untuk mengambil atau melihat data dari database.
+Contoh: Melihat daftar produk, membaca artikel, atau mencari data pelanggan.
+
+Update (Memperbarui Data yang Ada):
+	Operasi untuk mengubah data yang sudah ada dalam database.
+Contoh: Mengedit profil pengguna, memperbarui status pesanan, atau mengubah informasi kontak.
+
+Delete (Menghapus Data):
+	Operasi untuk menghapus data dari database.
+Contoh: Menghapus postingan, menghapus akun, atau menghapus entri data yang tidak diperlukan.
